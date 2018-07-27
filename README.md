@@ -1,7 +1,10 @@
 # **Rock Pape Scissors game using jQuery**
-It is a really simple algorithm
 
-Rules : 
+I just started learning javascript so I am a novice.
+
+###It is a really simple algorithm.
+
+##Rules : 
 
 The outcome of the game is determined by 3 simple rules:
 1. Rock wins against scissors.
