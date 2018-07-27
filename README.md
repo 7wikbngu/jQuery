@@ -2,11 +2,11 @@
 
 I just started learning javascript so I am a novice.
 
-###It is a really simple algorithm.
+### It is a really simple algorithm.
 
-##Rules : 
+## Rules : 
 
-The outcome of the game is determined by 3 simple rules:
-1. Rock wins against scissors.
-2. Scissors win against paper.
-3. Paper wins against rock.
+###### The outcome of the game is determined by 3 simple rules:
+- Rock wins against scissors.
+- Scissors win against paper.
+- Paper wins against rock.
