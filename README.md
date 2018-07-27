@@ -1,4 +1,4 @@
-# Rock Pape Scissors game using jQuery
+# **Rock Pape Scissors game using jQuery**
 It is a really simple algorithm
 
 Rules : 
