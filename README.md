@@ -6,7 +6,7 @@ I just started learning javascript so I am a novice.
 
 ## Rules : 
 
-###### The outcome of the game is determined by 3 simple rules:
+##### The outcome of the game is determined by 3 simple rules:
 - Rock wins against scissors.
 - Scissors win against paper.
 - Paper wins against rock.
